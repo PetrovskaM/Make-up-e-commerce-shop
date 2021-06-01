@@ -1,0 +1,13 @@
+.img-carousel {
+    width: 100%;
+    height: 422px;
+}
+.description {
+    font-size: 14px;
+    height: 150px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.title-height {
+    height: 55px;
+}
